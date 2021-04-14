@@ -10,4 +10,3 @@
 
 [Series.docx](https://github.com/Ishita3314/Programing_Questions/files/6313584/Series.docx)
 
-[Series.docx](https://github.com/Ishita3314/Programing_Questions/files/6313585/Series.docx)
